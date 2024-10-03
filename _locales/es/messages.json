@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Sonido Emergente"
+  },
+  "extensionDescription": {
+    "message": "Reproduce un sonido de clic al hacer clic en un enlace. También reproduce un sonido de trompeta cuando termina de descargar un archivo."
+  }
+}

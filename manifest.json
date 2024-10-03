@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "author": "Michaael Gunter",
+  "version": "3.0",
+  "default_locale": "en",
+  "offline_enabled": true,
+
+  "icons": {
+    "32": "icon_32.png",
+    "96": "icon_96.png",
+    "128": "icon_128.png"
+  },
+
+  "background": {
+    "service_worker": "sw.js"
+  },
+
+  "host_permissions": [
+    "<all_urls>"
+  ],
+
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "audio-handler.js",
+        "click.ogg",
+        "DownloadComplete.ogg",
+        "DownloadFailed.ogg",
+        "Unlock.ogg"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+
+  "permissions": [
+    "webNavigation", 
+    "downloads",
+    "offscreen",
+    "tabs"
+  ]
+}

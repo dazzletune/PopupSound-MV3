@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Son Popup"
+  },
+  "extensionDescription": {
+    "message": "Lit un clic lorsque vous cliquez sur un lien. Joue également un son de trompette lorsque vous avez terminé le téléchargement d’un fichier."
+  }
+}

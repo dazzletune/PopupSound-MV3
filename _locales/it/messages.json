@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Suono Popup"
+  },
+  "extensionDescription": {
+    "message": "Riproduce un suono di clic quando si fa clic su un collegamento. Riproduce anche un suono tromba al termine del download di un file."
+  }
+}

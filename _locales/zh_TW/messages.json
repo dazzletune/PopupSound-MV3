@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "彈出聲音"
+  },
+  "extensionDescription": {
+    "message": "按下連結時播放單擊聲音。下載完檔時也會播放喇叭聲。"
+  }
+}

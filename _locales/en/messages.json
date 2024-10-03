@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "PopupSound"
+  },
+  "extensionDescription": {
+    "message": "Plays a click sound when you click on a link. Also plays a trumpet sound when you finish downloading a file."
+  }
+}
